@@ -113,8 +113,6 @@ If the project is deployed on Streamlit:
 
 **[🚀 Open Live Demo](https://car-price-prediction-ml-zrhxk49bcgqwzgbukcvi8n.streamlit.app/)**
 
-> Replace `YOUR-STREAMLIT-APP-LINK` with your actual Streamlit deployment URL.
-
 ## 📂 Project Structure
 
 ```text
@@ -139,5 +137,3 @@ Car price prediction can be useful for:
 * 🚗 Online car marketplaces
 
 ---
-
-⭐ If you found this project useful, consider giving the repository a star!
