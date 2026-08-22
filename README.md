@@ -95,33 +95,6 @@ These metrics help measure how accurately the model predicts car prices.
 * ✅ Data visualization
 * ✅ User-friendly interface *(if using Streamlit)*
 
-## 🚀 How to Run the Project
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
-cd YOUR-REPOSITORY
-```
-
-### 2. Install the required libraries
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Run the Python project
-
-```bash
-python car_price_prediction.py
-```
-
-### 4. If using Streamlit
-
-```bash
-streamlit run app.py
-```
-
 ## 📦 Requirements
 
 The main Python libraries required are:
@@ -138,7 +111,7 @@ streamlit
 
 If the project is deployed on Streamlit:
 
-**[🚀 Open Live Demo](YOUR-STREAMLIT-APP-LINK)**
+**[🚀 Open Live Demo](https://car-price-prediction-ml-zrhxk49bcgqwzgbukcvi8n.streamlit.app/)**
 
 > Replace `YOUR-STREAMLIT-APP-LINK` with your actual Streamlit deployment URL.
 
